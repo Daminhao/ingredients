@@ -1,9 +1,7 @@
 // Copyright 2018 The Flutter team. All rights reserved.
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
-import 'package:tap_to_expand/tap_to_expand.dart';
 import 'package:flutter/material.dart';
-import 'package:expansion_tile_card/expansion_tile_card.dart';
 import 'package:rounded_expansion_tile/rounded_expansion_tile.dart';
 
 void main() {
@@ -15,7 +13,7 @@ var ingredientsTitle = ('INGREDIENTES');
 // Expantile 1
 Widget expantile1 = Center(
   child: Card(
-    color: Color.fromARGB(255, 124, 194, 112),
+    color: const Color.fromARGB(255, 124, 194, 112),
     shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(28)),
     child: RoundedExpansionTile(
       leading: Icon(Icons.person),
@@ -221,7 +219,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     Widget ingredients = Container(
-      padding: const EdgeInsets.all(22),
+      padding: const EdgeInsets.all(22222222),
       child: Column(
         children: [
           //1 Title
