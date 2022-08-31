@@ -16,10 +16,10 @@ Widget expantile1 = Center(
     color: const Color.fromARGB(255, 124, 194, 112),
     shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(28)),
     child: RoundedExpansionTile(
-      leading: Icon(Icons.person),
+      leading: const Icon(Icons.person),
       shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(28)),
-      title: Text('CHÁ VERDE',
-          style: const TextStyle(
+      title: const Text('CHÁ VERDE',
+          style: TextStyle(
               color: Colors.white, fontSize: 15, fontWeight: FontWeight.bold)),
       trailing: Icon(Icons.keyboard_arrow_down),
       rotateTrailing: true,

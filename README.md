@@ -1,16 +1,18 @@
 # ingredients
 
-A new Flutter project.
+this UI was made based on the project posted on twitter by Mirna!
+https://twitter.com/amaweirdow/status/1564298084988903425?s=20&t=dtJ7ycMAB55SOSU2w1qY1w
 
-## Getting Started
+Check out the excellent work of Mirna Marinho Andrade!
 
-This project is a starting point for a Flutter application.
+https://medium.com/@amimarinhoux/como-aplicamos-ux-design-em-interfaces-digitais-para-estimular-o-consumo-sustent%C3%A1vel-no-e-commmerce-dafb2cf39896
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+How to use
+
+Install Flutter and validate its installation with flutter doctor
+Clone this repository with git clone git@github.com:Daminhao/ingredients.git
+Run the app with cd openpix_flutter_demo && flutter run
